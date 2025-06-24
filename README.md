@@ -22,9 +22,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -52,6 +52,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushiSoni2107&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiSoni2107&layout=compact&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiSoni2107&theme=radical" />
 </p>
 
 ---
